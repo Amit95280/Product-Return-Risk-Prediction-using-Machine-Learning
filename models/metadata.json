@@ -1,0 +1,8 @@
+{
+  "best_model": "Logistic Regression",
+  "cv_roc_auc": 0.778804972124762,
+  "test_roc_auc": 0.7719352011656478,
+  "test_average_precision": 0.9053310617106624,
+  "threshold": 0.5,
+  "note": "Synthetic demonstration data; not validated on real transactions."
+}
